@@ -12,8 +12,8 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="bruno-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="bruno-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="bruno-php" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
+    <img align="center" alt="bruno-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="bruno-php" height="30" width="40" src="https://www.stonebranch.com/integration-hub/media/bc/6b/ac/1626255656/PowerBI_Vendor_Product_Logo.svg" />
   
   
 <div>
