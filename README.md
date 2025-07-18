@@ -2,7 +2,7 @@
 
 **`Analista de Sistemas`**
 
-Me chamo Bruno Refael da Silva, tenho 35 anos e sou natural de Curitiba. Concluí o curso de Análise e Desenvolvimento de Sistemas na FAEL. Sou apaixonadO por tecnologia e estou me desenvolvendo com Java com IA, Back-End com Python, além de ter o conhecimento em sistema SAP, realizei projeto de ponto eletrônico com PHP. 
+Me chamo Bruno Refael da Silva, tenho 35 anos e sou natural de Curitiba. Concluí o curso de Análise e Desenvolvimento de Sistemas na FAEL. Sou apaixonadO por tecnologia e estou me desenvolvendo com Java, Back-End com Python, além de ter o conhecimento em sistema SAP, realizei projeto de ponto eletrônico com PHP, além de algns mini projetos em Java.
 
 ---
 
